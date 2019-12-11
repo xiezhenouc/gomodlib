@@ -7,3 +7,7 @@ func Hi() {
 func Hello() {
     println("hello")
 }
+
+func Haha() {
+    println("haha")
+}
